@@ -1,7 +1,7 @@
 # eks-cluster-deployment
 
 ## Step 01
- 1) Cluster create
+ 1) Create Cluster
  2) create worker nodes
  3) configure kubectl to access cluster form local machine 
 
